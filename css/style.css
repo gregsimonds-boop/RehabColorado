@@ -126,3 +126,7 @@
 @media(max-width:991px){.navbar .logo-brand{width:220px!important}.navbar .nav-links{gap:15px}}
 @media(max-width:767px){.navbar .logo-brand{width:180px!important;max-width:42vw!important}.navbar .nav-inner{gap:9px}.navbar .logo-brand img{max-height:64px!important}.navbar .nav-cta{font-size:11px;letter-spacing:0;padding:10px 8px}.navbar .nav-cta i{display:none}.navbar .menu-toggle{flex-shrink:0;width:34px;height:34px}footer .logo-brand{width:250px!important}}
 @media(max-width:359px){.navbar .logo-brand{width:150px!important}.navbar .nav-cta{font-size:10px;padding:9px 6px}}
+
+/* Compact, readable footer disclosures. */
+footer{padding:30px 0 22px}.footer-top{padding-bottom:20px;gap:24px;align-items:center}.footer-bottom{padding-top:14px;gap:12px;font-size:12px;line-height:1.4}.footer-links{gap:18px;font-size:13px}.referral-disclaimers{margin-top:18px;padding-top:16px;font-size:13px;line-height:1.45;color:#cbd0c8}.referral-disclaimers p{font-size:13px;line-height:1.45;margin:0 0 9px;letter-spacing:normal}.referral-disclaimers p:last-child{margin-bottom:0}.referral-disclaimers strong{font-size:inherit;font-weight:600}.referral-disclaimers a{font-size:inherit;line-height:inherit}footer .logo-brand{width:240px!important}footer .logo-brand img{max-width:240px!important;max-height:78px!important}
+@media(max-width:767px){.footer-top{gap:18px;padding-bottom:18px}.footer-bottom{gap:6px}.referral-disclaimers,.referral-disclaimers p{font-size:13px;line-height:1.45}.footer-links{gap:12px 18px}}
